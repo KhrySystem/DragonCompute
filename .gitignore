@@ -39,3 +39,4 @@ bin/*
 # Environment Directories
 .vs/*
 .vscode/*
+/CMakePresets.json
