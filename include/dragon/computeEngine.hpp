@@ -1,5 +1,5 @@
-#include <dragon/dragon.hpp>
+#include <dragon/core.hpp>
 
 struct DgComputeEngine {
-	std::shared_ptr<DgEngine> pDragon;
+	//std::shared_ptr<DgEngine> pDragon;
 };
